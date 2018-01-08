@@ -1,0 +1,4 @@
+#Sat Dec 23 14:08:41 AST 2017
+base.0=/home/bhavya/AndroidStudioProjects/IoTApp/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

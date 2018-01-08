@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/IoTApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec817ca1c2ff284c5321f940abe95fa7/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/IoTApp/C:\\Users\\Asus\\AndroidStudioProjects\\IoTApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/AndroidStudioProjects/IoTApp/C:\\Users\\Asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\793ea4f940e03f839cffb1cf0e085205\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

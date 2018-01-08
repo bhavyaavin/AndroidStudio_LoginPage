@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/IoTApp/C:\\Users\\Asus\\AndroidStudioProjects\\IoTApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/AndroidStudioProjects/IoTApp/C:\\Users\\Asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\793ea4f940e03f839cffb1cf0e085205\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/IoTApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec817ca1c2ff284c5321f940abe95fa7/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
